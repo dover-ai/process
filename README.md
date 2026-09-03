@@ -16,10 +16,12 @@
 |---|---|
 | [PROCESS.md](PROCESS.md) | Разработка с нуля: фазы и обязательные артефакты каждой |
 | [AUDIT.md](AUDIT.md) | Приёмка существующего кода: отдельный маршрут |
+| [VERIFICATION.md](VERIFICATION.md) | Протокол независимой проверки: кто проверяет и в каких условиях |
 | [roles/](roles/) | Роли, между которыми распределяется работа |
 | [checklists/pre-release.md](checklists/pre-release.md) | Приёмка перед передачей в эксплуатацию |
 | [checklists/security.md](checklists/security.md) | Проверка безопасности |
 | [templates/audit-report.md](templates/audit-report.md) | Шаблон отчёта о приёмке кода |
+| [templates/verification-request.md](templates/verification-request.md) | Шаблон задания на независимую проверку |
 | [LESSONS.md](LESSONS.md) | Где ИИ ошибается систематически — накопленные закономерности |
 
 Пример проекта, собранного по этому процессу, — [starter](https://github.com/dover-ai/starter): шаблон сервиса со всеми обязательными артефактами на месте.
