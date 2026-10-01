@@ -20,8 +20,7 @@
 | [roles/](roles/) | Роли, между которыми распределяется работа |
 | [checklists/pre-release.md](checklists/pre-release.md) | Приёмка перед передачей в эксплуатацию |
 | [checklists/security.md](checklists/security.md) | Проверка безопасности |
-| [templates/audit-report.md](templates/audit-report.md) | Шаблон отчёта о приёмке кода |
-| [templates/verification-request.md](templates/verification-request.md) | Шаблон задания на независимую проверку |
+| [templates/](templates/) | Шаблоны документов — указатель в [templates/README.md](templates/README.md) |
 | [LESSONS.md](LESSONS.md) | Где ИИ ошибается систематически — накопленные закономерности |
 
 Пример проекта, собранного по этому процессу, — [starter](https://github.com/dover-ai/starter): шаблон сервиса со всеми обязательными артефактами на месте.
